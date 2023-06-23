@@ -1,0 +1,13 @@
+.post-card{
+    margin: 15px 0 15px 0;
+    box-shadow: 0px 0px 11px 1px #9a9ca1;
+}
+.post-card > .post-header{
+    padding: 8px;
+}
+.reaction-liked{
+    color: blue;
+}
+#myDiv {
+    display: none;
+}
